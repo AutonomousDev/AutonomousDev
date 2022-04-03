@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AutonomousDev
+- 👋 Hi, I’m Cameron Bowers
 - 👀 I’m interested in Django, Full stack, Unity.
-- 🌱 I’m currently learning Databases and Assembly.
+- 🌱 I’m currently learning Algrorithums and Network programing.
 - 💞️ I’m a little to busy to collaborate right now but I'm open to hearing about employement opertunities.
 - 📫 You can reach me multiple ways through <a href="https://www.autonomousdev.net/">my portfolio.</a>
 
