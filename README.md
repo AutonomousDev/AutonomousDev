@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cameron Bowers
+- 👋 Hi, I’m @Cameron Bowers
 - 👀 I’m interested in Django, Full stack, Unity.
 - 🌱 I’m currently learning Algrorithums and Network programing.
 - 💞️ I’m a little to busy to collaborate right now but I'm open to hearing about employement opertunities.
